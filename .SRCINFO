@@ -1,0 +1,25 @@
+pkgbase = mutt-kz-git
+	pkgdesc = A small but very powerful text-based mail client + integration with notmuch
+	pkgver = 20120901
+	pkgrel = 1
+	url = https://github.com/karelzak/mutt-kz
+	arch = i686
+	arch = x86_64
+	license = GPL
+	makedepends = git
+	makedepends = gnupg
+	makedepends = libxslt
+	depends = openssl>=0.9.8e
+	depends = gdbm
+	depends = mime-types
+	depends = zlib
+	depends = libsasl
+	depends = gpgme
+	depends = ncurses
+	depends = notmuch
+	provides = mutt
+	conflicts = mutt
+	options = !strip
+
+pkgname = mutt-kz-git
+
