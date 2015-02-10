@@ -1,6 +1,6 @@
 pkgbase = mutt-kz-git
 	pkgdesc = A small but very powerful text-based mail client + integration with notmuch
-	pkgver = 20150206.4e9cf84
+	pkgver = 20150209.c8504a8
 	pkgrel = 1
 	url = https://github.com/karelzak/mutt-kz
 	arch = i686
