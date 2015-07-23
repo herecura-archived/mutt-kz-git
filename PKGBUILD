@@ -3,7 +3,7 @@
 
 pkgname=mutt-kz-git
 _gitname=muttkz
-pkgver=20150717.24c06e7
+pkgver=20150722.5147a6c
 pkgrel=1
 pkgdesc="A small but very powerful text-based mail client + integration with notmuch"
 url="https://github.com/karelzak/mutt-kz"
